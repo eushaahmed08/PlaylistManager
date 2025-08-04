@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "E:\\AUST\\3.2\\sd\\projects\\PlaylistManagerApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D146F454-6026-475A-BFE2-64BB37AE0033}|PlaylistManagerApp\\PlaylistManagerApp.csproj|e:\\aust\\3.2\\sd\\projects\\playlistmanagerapp\\playlistmanagerapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D146F454-6026-475A-BFE2-64BB37AE0033}|PlaylistManagerApp\\PlaylistManagerApp.csproj|solutionrelative:playlistmanagerapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D146F454-6026-475A-BFE2-64BB37AE0033}|PlaylistManagerApp\\PlaylistManagerApp.csproj|e:\\aust\\3.2\\sd\\projects\\playlistmanagerapp\\playlistmanagerapp\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D146F454-6026-475A-BFE2-64BB37AE0033}|PlaylistManagerApp\\PlaylistManagerApp.csproj|solutionrelative:playlistmanagerapp\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D146F454-6026-475A-BFE2-64BB37AE0033}|PlaylistManagerApp\\PlaylistManagerApp.csproj|E:\\AUST\\3.2\\sd\\projects\\PlaylistManagerApp\\playlistmanagerapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D146F454-6026-475A-BFE2-64BB37AE0033}|PlaylistManagerApp\\PlaylistManagerApp.csproj|solutionrelative:playlistmanagerapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D146F454-6026-475A-BFE2-64BB37AE0033}|PlaylistManagerApp\\PlaylistManagerApp.csproj|E:\\AUST\\3.2\\sd\\projects\\PlaylistManagerApp\\playlistmanagerapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D146F454-6026-475A-BFE2-64BB37AE0033}|PlaylistManagerApp\\PlaylistManagerApp.csproj|solutionrelative:playlistmanagerapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\AUST\\3.2\\sd\\projects\\PlaylistManagerApp\\PlaylistManagerApp\\Form1.cs",
-              "RelativeDocumentMoniker": "PlaylistManagerApp\\Form1.cs",
-              "ToolTip": "E:\\AUST\\3.2\\sd\\projects\\PlaylistManagerApp\\PlaylistManagerApp\\Form1.cs [Design]",
-              "RelativeToolTip": "PlaylistManagerApp\\Form1.cs [Design]",
+              "Title": "Song.cs",
+              "DocumentMoniker": "E:\\AUST\\3.2\\sd\\projects\\PlaylistManagerApp\\PlaylistManagerApp\\Song.cs",
+              "RelativeDocumentMoniker": "PlaylistManagerApp\\Song.cs",
+              "ToolTip": "E:\\AUST\\3.2\\sd\\projects\\PlaylistManagerApp\\PlaylistManagerApp\\Song.cs",
+              "RelativeToolTip": "PlaylistManagerApp\\Song.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T16:37:04.915Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-07-25T18:22:30.053Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\AUST\\3.2\\sd\\projects\\PlaylistManagerApp\\PlaylistManagerApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "PlaylistManagerApp\\MainForm.cs",
+              "ToolTip": "E:\\AUST\\3.2\\sd\\projects\\PlaylistManagerApp\\PlaylistManagerApp\\MainForm.cs",
+              "RelativeToolTip": "PlaylistManagerApp\\MainForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA3wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T17:23:41.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "E:\\AUST\\3.2\\sd\\projects\\PlaylistManagerApp\\PlaylistManagerApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "PlaylistManagerApp\\MainForm.cs",
+              "ToolTip": "E:\\AUST\\3.2\\sd\\projects\\PlaylistManagerApp\\PlaylistManagerApp\\MainForm.cs [Design]",
+              "RelativeToolTip": "PlaylistManagerApp\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T16:37:04.915Z"
             }
           ]
         }
