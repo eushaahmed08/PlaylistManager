@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace PlaylistManagerApp
 {
-    internal class Playlist
+    public class Playlist
     {
         public string Name { get; set; }
-        public List<Song> Songs { get; private set; }
+        public List<Song> Songs { get;  set; }
         public Playlist(string name)
         {
             Name = name;
